@@ -1,0 +1,11 @@
+<theme>
+    <name>themetest</name>
+    <skinType>1</skinType>
+    <description>Un thème sympa</description>
+    <previewUri>themetest.png</previewUri>
+    <author>Oui</author>
+    <version>1.0.0</version>
+    <dofusVersion>2.42</dofusVersion> 
+    <creationDate>JJ/MM/AAAA</creationDate> 
+    <modificationDate>JJ/MM//AAAA</modificationDate> 
+</theme>
